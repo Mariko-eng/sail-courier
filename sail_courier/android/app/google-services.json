@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "279090874821",
+    "project_id": "sail-courrier",
+    "storage_bucket": "sail-courrier.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:279090874821:android:b2c1abf5665f24b31823ac",
+        "android_client_info": {
+          "package_name": "com.example.sailcourrier"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "279090874821-ja9n57lht08bdk5vpd7vo3vb153gd5a3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNFdAHxDMWSfckH4MUjqmQFRXRJOK2y8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "279090874821-ja9n57lht08bdk5vpd7vo3vb153gd5a3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
